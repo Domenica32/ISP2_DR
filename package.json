@@ -1,0 +1,16 @@
+{
+  "name": "progreso2",
+  "version": "1.0.0",
+  "description": "examen p2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Domenica Rueda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.5",
+    "request": "^2.88.2"
+  }
+}
